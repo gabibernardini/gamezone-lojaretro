@@ -27,5 +27,5 @@ O projeto contém:
 # 🛠️ Ferramentas e Tecnologias utilizadas
 
 O projeto foi desenvolvido utilizando:
-- **HTML5:** Estruturação semântica do conteúdo;
+- **HTML:** Estruturação semântica do conteúdo;
 - **VS Code:** Editor de código-fonte.
